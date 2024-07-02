@@ -1,5 +1,6 @@
 # aplica-o_username
 Aplicação que faça o registo do username, email e password.
+
 print("Bem vindo à nossa aplicação!")
 
 username = input("Insira um username: ")
